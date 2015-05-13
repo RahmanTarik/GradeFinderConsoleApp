@@ -1,0 +1,11 @@
+E:\SEIP_Practice\GradeFinderConsoleApp\GradeFinderConsoleApp\bin\Debug\GradeFinderConsoleApp.exe.config
+E:\SEIP_Practice\GradeFinderConsoleApp\GradeFinderConsoleApp\bin\Debug\GradeFinderConsoleApp.exe
+E:\SEIP_Practice\GradeFinderConsoleApp\GradeFinderConsoleApp\bin\Debug\GradeFinderConsoleApp.pdb
+E:\SEIP_Practice\GradeFinderConsoleApp\GradeFinderConsoleApp\obj\Debug\GradeFinderConsoleApp.csprojResolveAssemblyReference.cache
+E:\SEIP_Practice\GradeFinderConsoleApp\GradeFinderConsoleApp\obj\Debug\GradeFinderConsoleApp.exe
+E:\SEIP_Practice\GradeFinderConsoleApp\GradeFinderConsoleApp\obj\Debug\GradeFinderConsoleApp.pdb
+F:\GradeFinderConsoleApp\GradeFinderConsoleApp\bin\Debug\GradeFinderConsoleApp.exe.config
+F:\GradeFinderConsoleApp\GradeFinderConsoleApp\bin\Debug\GradeFinderConsoleApp.exe
+F:\GradeFinderConsoleApp\GradeFinderConsoleApp\bin\Debug\GradeFinderConsoleApp.pdb
+F:\GradeFinderConsoleApp\GradeFinderConsoleApp\obj\Debug\GradeFinderConsoleApp.exe
+F:\GradeFinderConsoleApp\GradeFinderConsoleApp\obj\Debug\GradeFinderConsoleApp.pdb
